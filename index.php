@@ -1,1 +1,1 @@
-<?php echo "hui"; ?>
+<?php echo "hui_new"; ?>
